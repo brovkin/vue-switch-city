@@ -1,7 +1,13 @@
 # vue-switch-city
 
-via api http://worldtimeapi.org/
+### Via api
+http://worldtimeapi.org/
 
+### Use libraries:
+```
+- moment.js
+- axios
+```
 ## Project setup
 ```
 npm install
